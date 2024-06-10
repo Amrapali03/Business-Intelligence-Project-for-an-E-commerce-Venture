@@ -1,4 +1,4 @@
-# Urban-Collective-s-business-intelligence-Project
+# Urban-Collective's-business-intelligence-Project
 This document provides an overview of Urban Collective's business intelligence (BI) project, focusing on their retail operations and data management strategies.
 Business Plan and Background
 Urban Collective is a growing apparel retailer with 89 stores in Columbia and annual sales exceeding $2 million.
