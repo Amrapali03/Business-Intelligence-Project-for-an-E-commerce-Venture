@@ -48,6 +48,7 @@ To create an interactive solution, we leverage Python and Streamlit, a powerful 
 The connection to our RDS database is established using the mysql.connector library, enabling secure and efficient data retrieval.
 Streamlit facilitates the creation of a dynamic web interface that allows users to execute predefined queries, visualize results, and interact with the data. 
 The functionality is built around key modules such as pandas for data manipulation, seaborn and matplotlib for data visualization, and Streamlit's own components for user input and output. 
+Website Link: https://urbancollective-report.streamlit.app/
 
 The homepage looks like this:
 ![image](https://github.com/Amrapali03/Urban-Collective-s-business-intelligence-Project/assets/114306627/0dd08700-c10e-47bd-9701-c54ecc597bc3)
