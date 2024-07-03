@@ -1,5 +1,8 @@
 # Business-Intelligence-Project with Interactive Website and Dashboard
 ## Retail Venture Name: Urban Collective
+
+![image](https://github.com/Amrapali03/Interactive-End-to-end-Retail-Business-Intelligence-Project/assets/114306627/e28e5565-8692-4e92-a005-3b61b9b14250)
+
 This document provides an overview of Urban Collective's business intelligence (BI) project, focusing on their retail operations and data management strategies.
 Business Plan and Background
 Urban Collective is a growing apparel retailer with 89 stores in Columbia and annual sales exceeding $2 million.
