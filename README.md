@@ -47,7 +47,10 @@ Top Payment Methods:
 Identifies payment methods associated with higher spending.
 Helps optimize payment processing options and improve customer satisfaction.
 
-## Python and Streamlit
+## Reporting System
+<img width="1050" alt="image" src="https://github.com/Amrapali03/Interactive-End-to-end-Retail-Business-Intelligence-Project/assets/114306627/5f6fcdea-9e2d-49f3-940a-cb17029be67e">
+
+### Python and Streamlit implementation: 
 To create an interactive solution, we leverage Python and Streamlit, a powerful framework for building data applications. 
 The connection to our RDS database is established using the mysql.connector library, enabling secure and efficient data retrieval.
 Streamlit facilitates the creation of a dynamic web interface that allows users to execute predefined queries, visualize results, and interact with the data. 
